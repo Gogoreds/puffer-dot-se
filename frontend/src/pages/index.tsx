@@ -8,7 +8,6 @@ import { AboutUs } from "../components/AboutUs";
 import { Services } from "../components/Services";
 import { Footer } from "../components/Footer";
 import { Stats } from "../components/Stats";
-import { Content } from "../components/Content";
 import { Pricing } from "../components/Pricing";
 import { Customers } from "../components/Customers";
 
@@ -30,7 +29,6 @@ export default function Home() {
         <Pricing />
         <Stats />
         <Customers />
-        <Content />
       </main>
       <Footer />
     </div>
