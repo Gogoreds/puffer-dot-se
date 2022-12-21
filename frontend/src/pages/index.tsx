@@ -10,6 +10,7 @@ import { Footer } from "../components/Footer";
 import { Stats } from "../components/Stats";
 import { Pricing } from "../components/Pricing";
 import { Customers } from "../components/Customers";
+import { Testimonials } from "../components/Testimonials";
 
 export default function Home() {
   return (
@@ -28,6 +29,7 @@ export default function Home() {
         <AboutUs />
         <Pricing />
         <Stats />
+        <Testimonials />
         <Customers />
       </main>
       <Footer />
