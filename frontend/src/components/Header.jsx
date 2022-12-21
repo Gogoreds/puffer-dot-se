@@ -22,7 +22,7 @@ export function Header() {
               <li>
                 <a
                   href="#"
-                  class="block rounded py-2 pr-4 pl-3 text-white hover:bg-gray-100 dark:border-white dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-gray-700 md:dark:hover:bg-transparent md:dark:hover:text-rose-900"
+                  class="block rounded py-2 pr-4 pl-3 text-white hover:bg-gray-100 dark:border-white dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-gray-700 md:dark:hover:bg-transparent md:dark:hover:text-cyan-400"
                   aria-current="page"
                 >
                   Services
@@ -31,7 +31,7 @@ export function Header() {
               <li>
                 <a
                   href="#"
-                  class="block rounded py-2 pr-4 pl-3 text-white hover:bg-gray-100 dark:border-white dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-gray-700 md:dark:hover:bg-transparent md:dark:hover:text-rose-900"
+                  class="block rounded py-2 pr-4 pl-3 text-white hover:bg-gray-100 dark:border-white dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-gray-700 md:dark:hover:bg-transparent md:dark:hover:text-cyan-400"
                 >
                   Testimonials
                 </a>
@@ -39,7 +39,7 @@ export function Header() {
               <li>
                 <a
                   href="#"
-                  class="block rounded py-2 pr-4 pl-3 text-white hover:bg-gray-100 dark:border-white dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-gray-700 md:dark:hover:bg-transparent md:dark:hover:text-rose-900"
+                  class="block rounded py-2 pr-4 pl-3 text-white hover:bg-gray-100 dark:border-white dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-gray-700 md:dark:hover:bg-transparent md:dark:hover:text-cyan-400"
                 >
                   Pricing
                 </a>
@@ -47,7 +47,7 @@ export function Header() {
               <li>
                 <a
                   href="#"
-                  class="block rounded py-2 pr-4 pl-3 text-white hover:bg-gray-100 dark:border-white dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-gray-700 md:dark:hover:bg-transparent md:dark:hover:text-rose-900"
+                  class="block rounded py-2 pr-4 pl-3 text-white hover:bg-gray-100 dark:border-white dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-gray-700 md:dark:hover:bg-transparent md:dark:hover:text-cyan-400"
                 >
                   About Us
                 </a>
