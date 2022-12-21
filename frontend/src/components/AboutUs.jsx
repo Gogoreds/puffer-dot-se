@@ -6,7 +6,7 @@ export function AboutUs() {
   return (
     <div className="bg-[#212240]">
       <main>
-        <div className="relative overflow-hidden pt-16 pb-32">
+        <div className="relative overflow-hidden pt-0 pb-8">
           <div
             aria-hidden="true"
             className="absolute inset-x-0 top-0 h-4 bg-[#212240]"

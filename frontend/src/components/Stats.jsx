@@ -1,9 +1,9 @@
 export function Stats() {
   return (
-    <div className="my-32 bg-[#212240] sm:pt-16">
-      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <div className="bg-[#212240] pt-32 sm:pt-64">
+      <div className=" mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-4xl text-center">
-          <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
+          <h2 className="text-3xl font-bold  tracking-tight text-white sm:text-4xl">
             Our impact in numbers
           </h2>
           <p className="mt-3 text-xl text-gray-200 sm:mt-4">
@@ -12,7 +12,7 @@ export function Stats() {
         </div>
       </div>
       <div className="mt-10 bg-transparent pb-12 sm:pb-16">
-        <div className="relative">
+        <div className="relative ">
           <div className="absolute inset-0 h-1/2" />
           <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div className="mx-auto max-w-4xl">
@@ -41,7 +41,7 @@ export function Stats() {
                     32
                   </dd>
                 </div>
-                <div className="flex flex-col p-6 text-center sm:border-0 ">
+                <div className="flex flex-col p-6 text-center sm:border-0">
                   <dt className="order-2 mt-2 text-lg font-medium leading-6 text-gray-200">
                     Average Turnaround Time
                   </dt>
