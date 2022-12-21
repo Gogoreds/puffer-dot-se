@@ -15,7 +15,7 @@ function classNames(...classes) {
 
 export function Services() {
   return (
-    <div className="mt-0 bg-[#212240] py-8 pb-64">
+    <div className="bg-[#212240] py-8 pb-32">
       <main>
         <div>
           <div className="relative">
@@ -27,7 +27,7 @@ export function Services() {
               <span className="block">Our Services</span>
             </h2>
             {/* Cards */}
-            <div className="relative mx-auto max-w-2xl justify-center px-4 pb-8 text-center sm:mt-12 sm:px-6 lg:max-w-7xl lg:px-8 lg:pb-0">
+            <div className="relative mx-auto max-w-2xl justify-center px-4 pb-8 text-center sm:px-6 sm:pt-12 lg:max-w-7xl lg:px-8 lg:pb-0">
               <div className="relative space-y-6 lg:grid lg:grid-cols-3 lg:space-y-0">
                 <div className="mx-5 flex flex-col rounded-2xl bg-[#30305d] shadow-xl">
                   <div className="relative flex-1 px-6 pt-16 pb-8 md:px-8">
@@ -36,7 +36,7 @@ export function Services() {
                       alt="SEO"
                       className="top-0 inline-block justify-center"
                     />
-                    <h3 className="mt-8 text-center text-xl font-medium text-white">
+                    <h3 className="pt-8 text-center text-xl font-medium text-white">
                       Search Engine Optimization
                     </h3>
                   </div>
@@ -48,7 +48,7 @@ export function Services() {
                       alt="InboundMarketing"
                       className="top-0 inline-block justify-center"
                     />
-                    <h3 className="mt-8 text-center text-xl font-medium text-white">
+                    <h3 className="pt-8 text-center text-xl font-medium text-white">
                       Inbound Marketing
                     </h3>
                   </div>
@@ -60,7 +60,7 @@ export function Services() {
                       alt="CloudMarketing"
                       className="top-0 inline-block justify-center"
                     />
-                    <h3 className="mt-8 text-center text-xl font-medium text-white">
+                    <h3 className="pt-8 text-center text-xl font-medium text-white">
                       Cloud Marketing
                     </h3>
                   </div>
