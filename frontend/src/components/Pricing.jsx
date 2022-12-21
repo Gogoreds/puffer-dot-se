@@ -54,10 +54,10 @@ export function Pricing() {
         {/* Overlapping background */}
         <div
           aria-hidden="true"
-          className="absolute bottom-0 hidden h-6 w-full bg-gray-50 lg:block"
+          className="absolute bottom-0 hidden h-6 w-full bg-[#212240] lg:block"
         />
 
-        <div className="relative  mx-auto max-w-2xl px-4 pt-16 text-center sm:px-6 sm:pb-0 sm:pt-4 lg:max-w-7xl lg:px-8">
+        <div className=" relative mx-auto max-w-2xl px-4 pt-16 text-center sm:px-6 sm:pb-0 sm:pt-4 lg:max-w-7xl lg:px-8">
           <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
             <span className="block lg:inline">Simple pricing,</span>
             <span className="block lg:inline">no commitment.</span>

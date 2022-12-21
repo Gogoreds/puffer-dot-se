@@ -15,7 +15,7 @@ function classNames(...classes) {
 
 export function Services() {
   return (
-    <div className="bg-[#212240] py-8 pb-32">
+    <div className="-mt-16 bg-[#212240] py-8 pb-32">
       <main>
         <div>
           <div className="relative">
