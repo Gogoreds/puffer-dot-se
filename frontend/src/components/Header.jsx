@@ -6,7 +6,7 @@ import Logo from "../images/puffer.png";
 
 export function Header() {
   return (
-    <nav class="no-border fixed top-0 left-0 z-20 flex w-full bg-[#212240] px-2 py-2.5 sm:px-4">
+    <nav class="no-border fixed top-0 left-0 z-20 flex w-full bg-transparent px-2 py-2.5 backdrop-blur sm:px-4">
       <div class="container mx-auto flex flex-wrap items-center justify-between">
         <a href="/" class="flex items-center">
           <Link href="/" class="mr-3 h-10 w-10 sm:h-9" alt="Puffer Logo">
