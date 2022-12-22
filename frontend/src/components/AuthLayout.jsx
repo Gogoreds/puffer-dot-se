@@ -22,7 +22,7 @@ function BackgroundIllustration(props) {
 
 export function AuthLayout({ title, subtitle, children }) {
   return (
-    <main className="flex h-screen overflow-hidden bg-[#212240] pt-16 sm:py-28">
+    <main className="-z-10 flex h-screen overflow-hidden bg-[#212240] pt-16 sm:py-28">
       <div className="mx-auto flex w-full max-w-2xl flex-col px-4 sm:px-6">
         <div className="relative mt-12 sm:mt-16">
           <BackgroundIllustration
