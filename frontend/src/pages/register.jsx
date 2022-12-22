@@ -1,9 +1,9 @@
-import Head from 'next/head'
-import Link from 'next/link'
+import Head from "next/head";
+import Link from "next/link";
 
-import { AuthLayout } from '@/components/AuthLayout'
-import { Button } from '@/components/Button'
-import { SelectField, TextField } from '@/components/Fields'
+import { AuthLayout } from "@/components/AuthLayout";
+import { Button } from "@/components/Button";
+import { SelectField, TextField } from "@/components/Fields";
 
 export default function Register() {
   return (
@@ -15,10 +15,10 @@ export default function Register() {
         title="Sign up for an account"
         subtitle={
           <>
-            Already registered?{' '}
+            Already registered?{" "}
             <Link href="/login" className="text-cyan-600">
               Sign in
-            </Link>{' '}
+            </Link>{" "}
             to your account.
           </>
         }
@@ -65,10 +65,10 @@ export default function Register() {
               id="referral-source"
               name="referral_source"
             >
-              <option>AltaVista search</option>
-              <option>Super Bowl commercial</option>
-              <option>Our route 34 city bus ad</option>
-              <option>The “Never Use This” podcast</option>
+              <option>LinkedIn</option>
+              <option>Our Amazing Customers</option>
+              <option>Google Ads</option>
+              <option>The "Sweden's Best SEO Companies" Podcast</option>
             </SelectField>
           </div>
           <Button type="submit" color="cyan" className="mt-8 w-full">
@@ -77,5 +77,5 @@ export default function Register() {
         </form>
       </AuthLayout>
     </>
-  )
+  );
 }
