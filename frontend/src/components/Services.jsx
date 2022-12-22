@@ -27,7 +27,7 @@ export function Services() {
               <span className="block">Our Services</span>
             </h2>
             {/* Cards */}
-            <div className="relative mx-auto max-w-2xl justify-center px-4 pb-8 text-center sm:px-6 sm:pt-12 lg:max-w-7xl lg:px-8 lg:pb-0">
+            <div className="relative mx-auto max-w-2xl justify-center px-16 pb-8 text-center sm:px-6 sm:pt-12 lg:max-w-7xl lg:px-8 lg:pb-0">
               <div className="relative space-y-6 lg:grid lg:grid-cols-3 lg:space-y-0">
                 <div className="mx-5 flex flex-col rounded-2xl bg-[#30305d] shadow-xl">
                   <div className="relative flex-1 px-6 pt-16 pb-8 md:px-8">
